@@ -2,6 +2,7 @@
 
 ## V8
 - [CVE-2013-6632](./v8/CVE-2013-6632.js): TypedArray, Integer Overflow, OOB, _Pinkie Pie_
+- [CVE-2014-1705](./v8/CVE-2014-1705.js): TypedArray, Invalid array length, OOB, _geohot_
 - [CVE-2014-3176](./v8/CVE-2014-3176.js): Array concat, Side effect, OOB, _lokihardt_
 - [CVE-2014-7927](./v8/CVE-2014-7927.js): asm.js, Compiler, OOB, _Christian Holler_
 - [CVE-2014-7928](./v8/CVE-2014-7928.js): Array, Optimization, _Christian Holler_

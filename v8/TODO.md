@@ -4,5 +4,6 @@
 - [CVE-2015-1290](https://bugs.chromium.org/p/chromium/issues/detail?id=505374)
 - [CVE-2016-1678 (Christian Holler)]( https://bugs.chromium.org/p/chromium/issues/detail?id=595259)
 
-Waiting 90 days ...
-- CVE-2016-5129
+Waiting public ...
+- [CVE-2016-5129](https://bugs.chromium.org/p/chromium/issues/detail?id=620553)
+- [CVE-2016-5172](https://crbug.com/616386)

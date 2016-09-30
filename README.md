@@ -16,3 +16,4 @@
 - [CVE-2016-1669](./v8/CVE-2016-1669.js): RegExp, Heap Overflow, Integer Overflow, _Choongwoo Han_
 - [CVE-2016-1677](./v8/CVE-2016-1677.js): Side effect, information leak, _Guang Gong_, _Qihoo 360_
 - [CVE-2016-1688](./v8/CVE-2016-1688.js): RegExp, _Max Korenko_
+- [CVE-2016-5129](./v8/CVE-2016-5129.js): Array, Side effect, _Jeonghoon Shin_

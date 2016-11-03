@@ -7,3 +7,4 @@
 Waiting public ...
 - [CVE-2016-5172](https://crbug.com/616386)
 - [CVE-2016-5177](https://googlechromereleases.blogspot.kr/2016/09/stable-channel-update-for-desktop_29.html)
+- [CVE-2016-5198](https://crbug.com/659475)

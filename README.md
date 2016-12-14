@@ -18,3 +18,6 @@
 - [CVE-2016-1688](./v8/CVE-2016-1688.js): RegExp, _Max Korenko_
 - [CVE-2016-5129](./v8/CVE-2016-5129.js): Array, Side effect, _Jeonghoon Shin_
 - [CVE-2016-5172](./v8/CVE-2016-5172.js): Scope, _Choongwoo Han_
+
+## JavaScriptCore
+- [CVE-2016-4622](./jsc/CVE-2016-4622.js): Array slice, OOB, _Samuel Groß_

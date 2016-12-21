@@ -31,3 +31,6 @@
 - [CVE-2016-7202](./chakra/CVE-2016-7202.js): Array.reverse, Overflow, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7203](./chakra/CVE-2016-7203.js): Array.splice, Heap Overflow, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7240](./chakra/CVE-2016-7240.js): eval, Proxy, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2016-7241](./chakra/CVE-2016-7241.js): JSON.parse, Information Leak, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2016-7286](./chakra/CVE-2016-7286.js): SIMD.toLocaleString, Uninitialized Memory, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2016-7287](./chakra/CVE-2016-7287.js): Intl, Initialization, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_

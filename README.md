@@ -28,6 +28,7 @@
 - [CVE-2016-7190](./chakra/CVE-2016-7190.js): Array.map, Heap Overflow, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7194](./chakra/CVE-2016-7194.js): Function.apply, Information Leak, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7200](./chakra/CVE-2016-7200.js): Array.filter, Heap Corruption, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2016-7201](./chakra/CVE-2016-7201.js): Array, Prototype, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7202](./chakra/CVE-2016-7202.js): Array.reverse, Overflow, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7203](./chakra/CVE-2016-7203.js): Array.splice, Heap Overflow, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7240](./chakra/CVE-2016-7240.js): eval, Proxy, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_

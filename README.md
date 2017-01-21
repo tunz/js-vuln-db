@@ -6,6 +6,7 @@
 - [CVE-2014-3176](./v8/CVE-2014-3176.md): Array.concat, Side Effect, OOB, _lokihardt_
 - [CVE-2014-7927](./v8/CVE-2014-7927.md): asm.js, Compiler, OOB, _Christian Holler_
 - [CVE-2014-7928](./v8/CVE-2014-7928.md): Array, Optimization, _Christian Holler_
+- [CVE-2015-1233](./v8/CVE-2015-1233.md): Array, Optimization, OOB, _Anonymous_
 - [CVE-2015-1242](./v8/CVE-2015-1242.md): Type Confusion, _fcole@onshape.com_
 - [CVE-2015-6764](./v8/CVE-2015-6764.md): JSON, Side Effect, OOB, Pwn2Own, _Guang Gong_, _Qihoo 360_
 - [CVE-2015-6771](./v8/CVE-2015-6771.md): TypedArray, OOB

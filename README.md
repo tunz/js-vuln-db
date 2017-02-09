@@ -12,13 +12,14 @@
 - [CVE-2015-6771](./v8/CVE-2015-6771.md): TypedArray, OOB
 - [CVE-2015-8584](./v8/CVE-2015-8548.md): JSON, OOB
 - [CVE-2016-1646](./v8/CVE-2016-1646.md): Array.concat, Side Effect, OOB, _Wen Xu_, _Tencent KeenLab_
-- [CVE-2016-1653](./v8/CVE-2016-1653.md): asm.js, TypedArray, Compiler, OOB, _Choongwoo Han_
+- [CVE-2016-1653](./v8/CVE-2016-1653.md): asm.js, TypedArray, Optimization, OOB, _Choongwoo Han_
 - [CVE-2016-1665](./v8/CVE-2016-1665.md): asm.js, Compiler, _HyungSeok Han_
 - [CVE-2016-1669](./v8/CVE-2016-1669.md): RegExp, Heap Overflow, Integer Overflow, _Choongwoo Han_
 - [CVE-2016-1677](./v8/CVE-2016-1677.md): Side Effect, Information Leak, _Guang Gong_, _Qihoo 360_
 - [CVE-2016-1688](./v8/CVE-2016-1688.md): RegExp, _Max Korenko_
 - [CVE-2016-5129](./v8/CVE-2016-5129.md): Array, Side Effect, _Jeonghoon Shin_
 - [CVE-2016-5172](./v8/CVE-2016-5172.md): Scope, _Choongwoo Han_
+- [CVE-2016-5200](./v8/CVE-2016-5200.md): asm.js, TypedArray, Optimization, OOB, _Choongwoo Han_
 
 ## JavaScriptCore
 - [CVE-2016-4622](./jsc/CVE-2016-4622.md): Array.slice, OOB, _Samuel Groß_

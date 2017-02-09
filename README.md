@@ -19,6 +19,7 @@
 - [CVE-2016-1688](./v8/CVE-2016-1688.md): RegExp, _Max Korenko_
 - [CVE-2016-5129](./v8/CVE-2016-5129.md): Array, Side Effect, _Jeonghoon Shin_
 - [CVE-2016-5172](./v8/CVE-2016-5172.md): Scope, _Choongwoo Han_
+- [CVE-2016-5198](./v8/CVE-2016-5198.md): parseInt, Compiler, Optimization, OOB, _Tencent Keen Security Lab_
 - [CVE-2016-5200](./v8/CVE-2016-5200.md): asm.js, TypedArray, Optimization, OOB, _Choongwoo Han_
 
 ## JavaScriptCore

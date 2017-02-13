@@ -38,3 +38,4 @@
 - [CVE-2016-7241](./chakra/CVE-2016-7241.md): JSON.parse, Information Leak, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7286](./chakra/CVE-2016-7286.md): SIMD.toLocaleString, Uninitialized Memory, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7287](./chakra/CVE-2016-7287.md): Intl, Initialization, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2016-7288](./chakra/CVE-2016-7288.md): TypedArray, sort, Use After Free, _Natalie Silvanovich_, _Google Project Zero_

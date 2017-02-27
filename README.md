@@ -21,6 +21,7 @@
 - [CVE-2016-5172](./v8/CVE-2016-5172.md): Scope, _Choongwoo Han_
 - [CVE-2016-5198](./v8/CVE-2016-5198.md): parseInt, Compiler, Optimization, OOB, _Tencent Keen Security Lab_
 - [CVE-2016-5200](./v8/CVE-2016-5200.md): asm.js, TypedArray, Optimization, OOB, _Choongwoo Han_
+- [CVE-2016-9651](./v8/CVE-2016-9651.md): Object.assign, Property, _Guang Gong_, _Qihoo 360_
 
 ## JavaScriptCore
 - [CVE-2016-4622](./jsc/CVE-2016-4622.md): Array.slice, OOB, _Samuel Groß_

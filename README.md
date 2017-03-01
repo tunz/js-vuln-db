@@ -40,6 +40,7 @@
 
 ## JavaScriptCore
 - [CVE-2016-4622](./jsc/CVE-2016-4622.md): Array.slice, OOB, _Samuel Groß_
+- [CVE-2016-4734](./jsc/CVE-2016-4734.md): TypedArray.copyWithin, TypedArray.fill, Buffer Neutering, _Natalie Silvanovich_, _Google Project Zero_
 
 ## SpiderMonkey
 - [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md): TypedArray.subarray, OOB, Buffer Neutering,  _Jüri Aedla_

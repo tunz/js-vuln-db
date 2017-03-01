@@ -8,7 +8,7 @@
 - [CVE-2014-7928](./v8/CVE-2014-7928.md): Array, Optimization, _Christian Holler_
 - [CVE-2015-1233](./v8/CVE-2015-1233.md): Array, Optimization, OOB
 - [CVE-2015-1242](./v8/CVE-2015-1242.md): Type Confusion, _fcole@onshape.com_
-- [CVE-2015-6764](./v8/CVE-2015-6764.md): JSON, Side Effect, OOB, Pwn2Own, _Guang Gong_, _Qihoo 360_
+- [CVE-2015-6764](./v8/CVE-2015-6764.md): JSON.stringify, Side Effect, OOB, Pwn2Own, _Guang Gong_, _Qihoo 360_
 - [CVE-2015-6771](./v8/CVE-2015-6771.md): TypedArray, OOB
 - [CVE-2015-8584](./v8/CVE-2015-8548.md): JSON, OOB
 - [CVE-2016-1646](./v8/CVE-2016-1646.md): Array.concat, Side Effect, OOB, _Wen Xu_, _Tencent KeenLab_
@@ -36,11 +36,12 @@
 - [CVE-2016-7241](./chakra/CVE-2016-7241.md): JSON.parse, Information Leak, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7286](./chakra/CVE-2016-7286.md): SIMD.toLocaleString, Uninitialized Memory, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7287](./chakra/CVE-2016-7287.md): Intl, Initialization, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
-- [CVE-2016-7288](./chakra/CVE-2016-7288.md): TypedArray, sort, Use After Free, Buffer Neutering, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2016-7288](./chakra/CVE-2016-7288.md): TypedArray, sort, Use After Free, Buffer Neutering, Side Effect, _Natalie Silvanovich_, _Google Project Zero_
 
 ## JavaScriptCore
-- [CVE-2016-4622](./jsc/CVE-2016-4622.md): Array.slice, OOB, _Samuel Groß_
-- [CVE-2016-4734](./jsc/CVE-2016-4734.md): TypedArray.copyWithin, TypedArray.fill, Buffer Neutering, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2016-1857](./jsc/CVE-2016-1857.md): Array.join, Use After Free, Side Effect, _KeenLab Tencent_, (_Liang Chen_, _Zhen Feng_, _wushi_), _Jeonghoon Shin_
+- [CVE-2016-4622](./jsc/CVE-2016-4622.md): Array.slice, OOB, Side Effect, _Samuel Groß_
+- [CVE-2016-4734](./jsc/CVE-2016-4734.md): TypedArray.copyWithin, TypedArray.fill, Buffer Neutering, Side Effect, _Natalie Silvanovich_, _Google Project Zero_
 
 ## SpiderMonkey
-- [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md): TypedArray.subarray, OOB, Buffer Neutering,  _Jüri Aedla_
+- [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md): TypedArray.subarray, OOB, Buffer Neutering, Side Effect,  _Jüri Aedla_

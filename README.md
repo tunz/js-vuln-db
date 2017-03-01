@@ -23,9 +23,6 @@
 - [CVE-2016-5200](./v8/CVE-2016-5200.md): asm.js, TypedArray, Optimization, OOB, _Choongwoo Han_
 - [CVE-2016-9651](./v8/CVE-2016-9651.md): Object.assign, Property, _Guang Gong_, _Qihoo 360_
 
-## JavaScriptCore
-- [CVE-2016-4622](./jsc/CVE-2016-4622.md): Array.slice, OOB, _Samuel Groß_
-
 ## ChakraCore
 - [CVE-2016-3386](./chakra/CVE-2016-3386.md): Spread Operator, Stack Overflow, _Richard Zhu_
 - [CVE-2016-7189](./chakra/CVE-2016-7189.md): Array.join, Information Leak, _Natalie Silvanovich_, _Google Project Zero_
@@ -39,4 +36,10 @@
 - [CVE-2016-7241](./chakra/CVE-2016-7241.md): JSON.parse, Information Leak, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7286](./chakra/CVE-2016-7286.md): SIMD.toLocaleString, Uninitialized Memory, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7287](./chakra/CVE-2016-7287.md): Intl, Initialization, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
-- [CVE-2016-7288](./chakra/CVE-2016-7288.md): TypedArray, sort, Use After Free, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2016-7288](./chakra/CVE-2016-7288.md): TypedArray, sort, Use After Free, Buffer Neutering, _Natalie Silvanovich_, _Google Project Zero_
+
+## JavaScriptCore
+- [CVE-2016-4622](./jsc/CVE-2016-4622.md): Array.slice, OOB, _Samuel Groß_
+
+## SpiderMonkey
+- [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md): TypedArray.subarray, OOB, Buffer Neutering,  _Jüri Aedla_

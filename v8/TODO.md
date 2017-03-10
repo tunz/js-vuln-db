@@ -9,3 +9,5 @@ Waiting public ...
 - [CVE-2016-5213](https://crbug.com/652548)
 - [CVE-2016-5219](https://crbug.com/657568)
 - [CVE-2017-5012](https://crbug.com/681843)
+- [CVE-2017-5030](https://crbug.com/682194)
+- [CVE-2017-5040](https://crbug.com/691323)

@@ -37,6 +37,7 @@
 - [CVE-2016-7286](./chakra/CVE-2016-7286.md): SIMD.toLocaleString, Uninitialized Memory, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7287](./chakra/CVE-2016-7287.md): Intl, Initialization, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7288](./chakra/CVE-2016-7288.md): TypedArray.sort, Use After Free, Buffer Neutering, Side Effect, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2017-0071](./chakra/CVE-2017-0071.md): Array, Optimization, Type Confusion, _lokihardt_, _Google Project Zero_
 
 ## JavaScriptCore
 - [CVE-2016-1857](./jsc/CVE-2016-1857.md): Array.join, Use After Free, Side Effect, _KeenLab Tencent_, (_Liang Chen_, _Zhen Feng_, _wushi_), _Jeonghoon Shin_

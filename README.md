@@ -43,6 +43,8 @@
 - [CVE-2016-1857](./jsc/CVE-2016-1857.md): Array.join, Use After Free, Side Effect, _KeenLab Tencent_, (_Liang Chen_, _Zhen Feng_, _wushi_), _Jeonghoon Shin_
 - [CVE-2016-4622](./jsc/CVE-2016-4622.md): Array.slice, OOB, Side Effect, _Samuel Groß_
 - [CVE-2016-4734](./jsc/CVE-2016-4734.md): TypedArray.copyWithin, TypedArray.fill, Buffer Neutering, Side Effect, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2017-2446](./jsc/CVE-2017-2446.md): Funciton.caller, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2017-2447](./jsc/CVE-2017-2447.md): Function.bind, OOB, _Natalie Silvanovich_, _Google Project Zero_
 
 ## SpiderMonkey
 - [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md): TypedArray.subarray, OOB, Buffer Neutering, Side Effect, _Jüri Aedla_

@@ -11,3 +11,5 @@ Waiting public ...
 - [CVE-2017-5012](https://crbug.com/681843)
 - [CVE-2017-5030](https://crbug.com/682194)
 - [CVE-2017-5040](https://crbug.com/691323)
+- [CVE-2017-5053](https://crbug.com/702058)
+- [CVE-2017-5054](https://crbug.com/699166)

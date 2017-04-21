@@ -45,6 +45,7 @@
 - [CVE-2016-4734](./jsc/CVE-2016-4734.md): TypedArray.copyWithin, TypedArray.fill, Buffer Neutering, Side Effect, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2017-2446](./jsc/CVE-2017-2446.md): Funciton.caller, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2017-2447](./jsc/CVE-2017-2447.md): Function.bind, OOB, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2017-2464](./jsc/CVE-2017-2464.md): Array.concat, Integer Overflow, _Natalie Silvanovich_, _Google Project Zero_
 
 ## SpiderMonkey
 - [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md): TypedArray.subarray, OOB, Buffer Neutering, Side Effect, _Jüri Aedla_

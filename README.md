@@ -22,6 +22,7 @@
 - [CVE-2016-5198](./v8/CVE-2016-5198.md): parseInt, Compiler, Optimization, OOB, _Tencent Keen Security Lab_
 - [CVE-2016-5200](./v8/CVE-2016-5200.md): asm.js, TypedArray, Optimization, OOB, _Choongwoo Han_
 - [CVE-2016-9651](./v8/CVE-2016-9651.md): Object.assign, Property, _Guang Gong_, _Qihoo 360_
+- [CVE-2017-5030](./v8/CVE-2017-5030.md): Array.concat, Side Effect, OOB, _Brendon Tiszka_
 
 ## ChakraCore
 - [CVE-2016-3386](./chakra/CVE-2016-3386.md): Spread Operator, Array, Proxy, Stack Overflow, _Richard Zhu_

@@ -38,6 +38,7 @@
 - [CVE-2016-7286](./chakra/CVE-2016-7286.md): SIMD.toLocaleString, Uninitialized Memory, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7287](./chakra/CVE-2016-7287.md): Intl, Initialization, Type Confusion, _Natalie Silvanovich_, _Google Project Zero_
 - [CVE-2016-7288](./chakra/CVE-2016-7288.md): TypedArray.sort, Use After Free, Buffer Neutering, Side Effect, _Natalie Silvanovich_, _Google Project Zero_
+- [CVE-2017-0015](./chakra/CVE-2017-0015.md): Spread Operator, Side Effect, Uninitialized Memory, _Qixun Zhao of Qihoo 360 Skyeye Labs_, _lokihart_ , _Simon Zuckerbraun_
 - [CVE-2017-0071](./chakra/CVE-2017-0071.md): Array, Optimization, Type Confusion, _lokihardt_, _Google Project Zero_
 - [CVE-2017-0134](./chakra/CVE-2017-0134.md): Array.concat, Side Effect, Type Confusion, _Jordan Rabet_
 - [CVE-2017-0141](./chakra/CVE-2017-0141.md): Array.reverse, Side Effect, _Semmle Inc_

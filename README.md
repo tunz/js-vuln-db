@@ -58,6 +58,8 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-2447](./jsc/CVE-2017-2447.md) | Function.bind | OOB | _Natalie Silvanovich [[3]](#projectzero)_
 [CVE-2017-2464](./jsc/CVE-2017-2464.md) | Array.concat | Integer Overflow | _Natalie Silvanovich [[3]](#projectzero)_
 [CVE-2017-2491](./jsc/CVE-2017-2491.md) | String.replace | RegExp, Use After Free | _Samuel Groß_, and _Niklas Baumstark_
+[CVE-2017-2521](./jsc/CVE-2017-2521.md) | Array.length | OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2017-2531](./jsc/CVE-2017-2531.md) |  | OOB | _lokihardt [[3]](#projectzero)_
 
 ## SpiderMonkey
 CVE Number | Feature | Keywords | Credit

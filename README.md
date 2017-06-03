@@ -60,6 +60,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-2491](./jsc/CVE-2017-2491.md) | String.replace | RegExp, Use After Free | _Samuel Groß_, and _Niklas Baumstark_
 [CVE-2017-2521](./jsc/CVE-2017-2521.md) | Array.length | OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2017-2531](./jsc/CVE-2017-2531.md) |  | OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2017-2491](./jsc/CVE-2017-2536.md) | Spread Operator | Array, Integer Overflow | _Samuel Groß_, and _Niklas Baumstark_
 
 ## SpiderMonkey
 CVE Number | Feature | Keywords | Credit

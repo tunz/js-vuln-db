@@ -26,7 +26,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2016-5200](./v8/CVE-2016-5200.md) | asm.js | TypedArray, Optimization, OOB | _Choongwoo Han_
 [CVE-2016-9651](./v8/CVE-2016-9651.md) | Object.assign | Logic, Property | _Guang Gong [[1]](#qihoo360)_
 [CVE-2017-5030](./v8/CVE-2017-5030.md) | Array.concat | Side Effect, OOB | _Brendon Tiszka_
-[CVE-2017-5040](./v8/CVE-2017-5040.md) | Array.indexOf | TypedArray, Side Effect, Use After Free | _Choongwoo Han_
+[CVE-2017-5040](./v8/CVE-2017-5040.md) | Array.indexOf | TypedArray, Side Effect, Buffer Neutering | _Choongwoo Han_
 
 ## ChakraCore
 CVE Number | Feature | Keywords | Credit

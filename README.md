@@ -22,7 +22,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2016-1688](./v8/CVE-2016-1688.md) | RegExp | | _Max Korenko_
 [CVE-2016-5129](./v8/CVE-2016-5129.md) | Array | Side Effect | _Jeonghoon Shin_
 [CVE-2016-5172](./v8/CVE-2016-5172.md) | | Scope | _Choongwoo Han_
-[CVE-2016-5198](./v8/CVE-2016-5198.md) | parseInt | Compiler, Optimization, OOB | _Tencent Keen Security Lab_
+[CVE-2016-5198](./v8/CVE-2016-5198.md) | Optimization | parseInt, Compiler, OOB | _Tencent Keen Security Lab_
 [CVE-2016-5200](./v8/CVE-2016-5200.md) | asm.js | TypedArray, Optimization, OOB | _Choongwoo Han_
 [CVE-2016-9651](./v8/CVE-2016-9651.md) | Object.assign | Logic, Property | _Guang Gong [[1]](#qihoo360)_
 [CVE-2017-5030](./v8/CVE-2017-5030.md) | Array.concat | Side Effect, OOB | _Brendon Tiszka_
@@ -61,7 +61,8 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-2491](./jsc/CVE-2017-2491.md) | String.replace | RegExp, Use After Free | _Samuel Groß_, and _Niklas Baumstark_
 [CVE-2017-2521](./jsc/CVE-2017-2521.md) | Array.length | OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2017-2531](./jsc/CVE-2017-2531.md) |  | OOB | _lokihardt [[3]](#projectzero)_
-[CVE-2017-2491](./jsc/CVE-2017-2536.md) | Spread Operator | Array, Integer Overflow | _Samuel Groß_, and _Niklas Baumstark_
+[CVE-2017-2536](./jsc/CVE-2017-2536.md) | Spread Operator | Array, Integer Overflow | _Samuel Groß_, and _Niklas Baumstark_
+[CVE-2017-2547](./jsc/CVE-2017-2547.md) | Optimization | parseInt, Compiler, OOB | _lokihardt [[3]](#projectzero)_
 
 ## SpiderMonkey
 CVE Number | Feature | Keywords | Credit

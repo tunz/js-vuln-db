@@ -63,6 +63,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-2531](./jsc/CVE-2017-2531.md) |  | OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2017-2536](./jsc/CVE-2017-2536.md) | Spread Operator | Array, Integer Overflow | _Samuel Groß_, and _Niklas Baumstark_
 [CVE-2017-2547](./jsc/CVE-2017-2547.md) | Optimization | parseInt, Compiler, OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2017-6980](./jsc/CVE-2017-6980.md) | Array.splice | Uninitialized Memory | _lokihardt [[3]](#projectzero)_
 
 ## SpiderMonkey
 CVE Number | Feature | Keywords | Credit

@@ -27,6 +27,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2016-9651](./v8/CVE-2016-9651.md) | Object.assign | Logic, Property | _Guang Gong [[1]](#qihoo360)_
 [CVE-2017-5030](./v8/CVE-2017-5030.md) | Array.concat | Side Effect, OOB | _Brendon Tiszka_
 [CVE-2017-5040](./v8/CVE-2017-5040.md) | Array.indexOf | TypedArray, Side Effect, Buffer Neutering | _Choongwoo Han_
+[CVE-2017-5053](./v8/CVE-2017-5053.md) | Array.indexOf | Side Effect | _Team Sniper [[2]](#keenlab)_
 
 ## ChakraCore
 CVE Number | Feature | Keywords | Credit
@@ -49,7 +50,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-0134](./chakra/CVE-2017-0134.md) | Array.concat | Side Effect, Type Confusion | _Jordan Rabet_
 [CVE-2017-0141](./chakra/CVE-2017-0141.md) | Array.reverse | Side Effect | _Semmle Inc_
 
-# JavaScriptCore
+## JavaScriptCore
 CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
 [CVE-2016-1857](./jsc/CVE-2016-1857.md) | Array.join | Side Effect, Use After Free | _Liang Chen_, _Zhen Feng_, _wushi_ _[[2]](#keenlab)_<br/> _Jeonghoon Shin_

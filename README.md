@@ -49,10 +49,6 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-0015](./chakra/CVE-2017-0015.md) | Spread Operator | Side Effect, Uninitialized Memory | _Qixun Zhao [[4]](#qihoo360skyeye)_<br/> _lokihart_<br/> _Simon Zuckerbraun_
 [CVE-2017-0071](./chakra/CVE-2017-0071.md) | Array | Optimization, Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-0134](./chakra/CVE-2017-0134.md) | Array.concat | Side Effect, Type Confusion | _Jordan Rabet_
-[CVE-2017-0040](./chakra/CVE-2017-0040.md) |  | | __
-[CVE-2017-0049](./chakra/CVE-2017-0049.md) |  | | __
-[CVE-2017-0130](./chakra/CVE-2017-0130.md) |  | | __
-[CVE-2017-0138](./chakra/CVE-2017-0138.md) |  | | __
 [CVE-2017-0141](./chakra/CVE-2017-0141.md) | Array.reverse | Side Effect | _Semmle Inc_
 
 ## JavaScriptCore

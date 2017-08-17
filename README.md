@@ -90,5 +90,5 @@ CVE Number | Feature | Keywords | Credit
 <a name="keenlab"></a>[2] Tencent KeenLab  
 <a name="projectzero"></a>[3] Google Project Zero  
 <a name="qihoo360skyeye"></a>[4] Qihoo 360 Skyeye Labs  
-<a name="qihoo360vulcan"></a>[5] Qihoo 360 Vulcan Team
-<a name="kaistsoftsec"></a>[6] KAIST SoftSec
+<a name="qihoo360vulcan"></a>[5] Qihoo 360 Vulcan Team  
+<a name="kaistsoftsec"></a>[6] KAIST SoftSec  

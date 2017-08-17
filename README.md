@@ -52,6 +52,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-0141](./chakra/CVE-2017-0141.md) | Array.reverse | Side Effect | _Semmle Inc_
 [CVE-2017-8601](./chakra/CVE-2017-8601.md) | Optimization | Array | _lokihardt [[6]](#projectzero)_
 [CVE-2017-8634](./chakra/CVE-2017-8634.md) | Array.concat | Side Effect | _Hao Lian [[5]](#qihoo360vulcan), HyungSeok Han [[6]](#kaistsoftsec)_
+[CVE-2017-8636](./chakra/CVE-2017-8636.md) | Compiler | Integer Overflow | _lokihardt [[6]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

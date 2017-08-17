@@ -55,6 +55,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-8634](./chakra/CVE-2017-8634.md) | Array.concat | Side Effect | _Hao Lian [[5]](#qihoo360vulcan), HyungSeok Han [[6]](#kaistsoftsec)_
 [CVE-2017-8636](./chakra/CVE-2017-8636.md) | Compiler | Integer Overflow | _lokihardt [[6]](#projectzero)_
 [CVE-2017-8640](./chakra/CVE-2017-8640.md) | arguments, | Compiler, Uninitialize Memory | _lokihardt [[6]](#projectzero)_
+[CVE-2017-8645](./chakra/CVE-2017-8645.md) | asm.js | Compiler | _lokihardt [[6]](#projectzero)_
 [CVE-2017-8646](./chakra/CVE-2017-8646.md) | asm.js | Compiler | _lokihardt [[6]](#projectzero)_
 [CVE-2017-8670](./chakra/CVE-2017-8670.md) | arguments | Compiler, Uninitialize Memory | _lokihardt [[6]](#projectzero)_
 [CVE-2017-8671](./chakra/CVE-2017-8671.md) | Function.call | Integer Overflow | _lokihardt [[6]](#projectzero)_

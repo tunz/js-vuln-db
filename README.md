@@ -60,7 +60,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-8656](./chakra/CVE-2017-8656.md) | try | Uninitialized Memory | _lokihardt [[6]](#projectzero)_
 [CVE-2017-8657](./chakra/CVE-2017-8657.md) | asm.js | Compiler | _lokihardt [[6]](#projectzero)_
 [CVE-2017-8670](./chakra/CVE-2017-8670.md) | arguments | Compiler, Uninitialize Memory | _lokihardt [[6]](#projectzero)_
-[CVE-2017-8671](./chakra/CVE-2017-8671.md) | Function.call | Integer Overflow | _lokihardt [[6]](#projectzero)_
+[CVE-2017-8671](./chakra/CVE-2017-8671.md) | Function.call | Integer Overflow | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

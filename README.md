@@ -21,7 +21,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2016-1677](./v8/CVE-2016-1677.md) | decodeURI | Side Effect, Information Leak | _Guang Gong [[1]](#qihoo360)_
 [CVE-2016-1688](./v8/CVE-2016-1688.md) | RegExp | | _Max Korenko_
 [CVE-2016-5129](./v8/CVE-2016-5129.md) | Array | Side Effect | _Jeonghoon Shin_
-[CVE-2016-5172](./v8/CVE-2016-5172.md) | Parser | Scope | _Choongwoo Han [[6]](#kaistsoftsec)_
+[CVE-2016-5172](./v8/CVE-2016-5172.md) | Parser | Scope, eval | _Choongwoo Han [[6]](#kaistsoftsec)_
 [CVE-2016-5198](./v8/CVE-2016-5198.md) | Optimization | parseInt, Compiler, OOB | _Tencent Keen Security Lab_
 [CVE-2016-5200](./v8/CVE-2016-5200.md) | Optimization | asm.js TypedArray, OOB | _Choongwoo Han [[6]](#kaistsoftsec)_
 [CVE-2016-9651](./v8/CVE-2016-9651.md) | Object.assign | Logic, Property | _Guang Gong [[1]](#qihoo360)_
@@ -62,7 +62,8 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-8657](./chakra/CVE-2017-8657.md) | Compiler | asm.js | _lokihardt [[3]](#projectzero)_
 [CVE-2017-8670](./chakra/CVE-2017-8670.md) | arguments | Compiler, Uninitialize Memory | _lokihardt [[3]](#projectzero)_
 [CVE-2017-8671](./chakra/CVE-2017-8671.md) | Function.call | Integer Overflow | _lokihardt [[3]](#projectzero)_
-[CVE-2017-8655](./chakra/CVE-2017-8755.md) | Parser |  | _lokihardt [[3]](#projectzero)_
+[CVE-2017-8755](./chakra/CVE-2017-8755.md) | Parser | asm.js | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11764](./chakra/CVE-2017-11764.md) | Parser | eval | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

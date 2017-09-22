@@ -30,6 +30,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-5053](./v8/CVE-2017-5053.md) | Array.indexOf | Side Effect | _Team Sniper [[2]](#keenlab)_
 [CVE-2017-5070](./v8/CVE-2017-5070.md) | Optimization | Array, Type Confusion | _Zhao Qixun [[5]](#qihoo360vulcan)_
 [CVE-2017-5071](./v8/CVE-2017-5071.md) | Compiler | OOB | _Choongwoo Han_
+[CVE-2017-5088](./v8/CVE-2017-5088.md) | wasm | Information Leak | _Xiling Gong [[7]](#tencentplatform)_
 
 ## ChakraCore
 CVE Number | Feature | Keywords | Credit
@@ -98,3 +99,4 @@ CVE Number | Feature | Keywords | Credit
 <a name="qihoo360skyeye"></a>[4] Qihoo 360 Skyeye Labs  
 <a name="qihoo360vulcan"></a>[5] Qihoo 360 Vulcan Team  
 <a name="kaistsoftsec"></a>[6] KAIST SoftSec  
+<a name="tencentplatform"></a>[7] Tencent Security Platform Department

@@ -31,6 +31,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-5070](./v8/CVE-2017-5070.md) | Optimization | Array, Type Confusion | _Zhao Qixun [[5]](#qihoo360vulcan)_
 [CVE-2017-5071](./v8/CVE-2017-5071.md) | Compiler | OOB | _Choongwoo Han_
 [CVE-2017-5088](./v8/CVE-2017-5088.md) | wasm | Information Leak | _Xiling Gong [[7]](#tencentplatform)_
+[CVE-2017-5098](./v8/CVE-2017-5098.md) | Parser | Use After Free | _Jihoon Kim [[6]](#kaistsoftsec)_
 
 ## ChakraCore
 CVE Number | Feature | Keywords | Credit

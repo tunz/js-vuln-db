@@ -67,11 +67,15 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-8671](./chakra/CVE-2017-8671.md) | Function.call | Integer Overflow | _lokihardt [[3]](#projectzero)_
 [CVE-2017-8729](./chakra/CVE-2017-8729.md) | Parser | Object | _lokihardt [[3]](#projectzero)_
 [CVE-2017-8740](./chakra/CVE-2017-8740.md) | Parser | Scope | _lokihardt [[3]](#projectzero)_
+[CVE-2017-8751](./chakra/CVE-2017-8751.md) | Object.setPrototypeOf | Memory corruption | _lokihardt [[3]](#projectzero)_
 [CVE-2017-8755](./chakra/CVE-2017-8755.md) | Parser | asm.js | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11764](./chakra/CVE-2017-11764.md) | Parser | eval | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11799](./chakra/CVE-2017-11799.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11802](./chakra/CVE-2017-11802.md) | Compiler | String.replace, Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11809](./chakra/CVE-2017-11809.md) | Compiler | Recursive function, Uninitialized Memory | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11811](./chakra/CVE-2017-11811.md) | Compiler | Type confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11861](./chakra/CVE-2017-11861.md) | Compiler | Integer Overflow | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11873](./chakra/CVE-2017-11873.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

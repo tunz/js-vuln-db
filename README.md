@@ -33,6 +33,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-5088](./v8/CVE-2017-5088.md) | wasm | Information Leak | _Xiling Gong [[7]](#tencentplatform)_
 [CVE-2017-5098](./v8/CVE-2017-5098.md) | Parser | Use After Free | _Jihoon Kim [[6]](#kaistsoftsec)_
 [CVE-2017-5115](./v8/CVE-2017-5115.md) | Compiler | OOB | Marco Giovannini
+[CVE-2017-5116](./v8/CVE-2017-5116.md) | wasm | Race Condition | _Guang Gong [[1]](#qihoo360)_
 [CVE-2017-15401](./v8/CVE-2017-15401.md) | wasm | Side Effect, OOB | ?
 
 ## ChakraCore

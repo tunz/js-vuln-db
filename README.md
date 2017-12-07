@@ -77,7 +77,11 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-11802](./chakra/CVE-2017-11802.md) | Compiler | String.replace, Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11809](./chakra/CVE-2017-11809.md) | Compiler | Recursive function, Uninitialized Memory | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11811](./chakra/CVE-2017-11811.md) | Compiler | Type confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11839](./chakra/CVE-2017-11839.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11840](./chakra/CVE-2017-11840.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11841](./chakra/CVE-2017-11841.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11861](./chakra/CVE-2017-11861.md) | Compiler | Integer Overflow | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11870](./chakra/CVE-2017-11870.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11873](./chakra/CVE-2017-11873.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore

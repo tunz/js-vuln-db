@@ -116,10 +116,10 @@ CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
 [CVE-2017-11793](./jscript/CVE-2017-11793.md) | JSON | Use After Free | _ifratric [[3]](#projectzero)_
 [CVE-2017-11855](./jscript/CVE-2017-11855.md) | Array.slice | Uninitialized Variable | _ifratric [[3]](#projectzero)_
-[CVE-2017-11890](./jscript/CVE-2017-11890.md) | RegExp | heap overflow | _ifratric [[3]](#projectzero)_
+[CVE-2017-11890](./jscript/CVE-2017-11890.md) | RegExp | Heap overflow | _ifratric [[3]](#projectzero)_
 [CVE-2017-11903](./jscript/CVE-2017-11903.md) | Array.join | Use After Free | _ifratric [[3]](#projectzero)_
 [CVE-2017-11906](./jscript/CVE-2017-11906.md) | RegExp | OOB | _ifratric [[3]](#projectzero)_
-[CVE-2017-11907](./jscript/CVE-2017-11906.md) | Array.sort | heap overflow | _ifratric [[3]](#projectzero)_
+[CVE-2017-11907](./jscript/CVE-2017-11907.md) | Array.sort | Heap overflow | _ifratric [[3]](#projectzero)_
 
 ---
 <a name="qihoo360"></a>[1] Qihoo 360  

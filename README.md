@@ -87,7 +87,13 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-11893](./chakra/CVE-2017-11893.md) | Compiler | JIT, Math | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11909](./chakra/CVE-2017-11909.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11911](./chakra/CVE-2017-11911.md) | Compiler | asm.js, OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11914](./chakra/CVE-2017-11914.md) | Compiler | Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11918](./chakra/CVE-2017-11918.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0774](./chakra/CVE-2018-0774.md) | Compiler | Incorrect Scope | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0775](./chakra/CVE-2018-0775.md) | Compiler | Incorrect Scope | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0776](./chakra/CVE-2018-0776.md) | Compiler | JIT, Bailout | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0777](./chakra/CVE-2018-0777.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0780](./chakra/CVE-2018-0780.md) | Compiler | asm.js, OOB | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

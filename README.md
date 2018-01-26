@@ -89,6 +89,9 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-11911](./chakra/CVE-2017-11911.md) | Compiler | asm.js, OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11914](./chakra/CVE-2017-11914.md) | Compiler | Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11918](./chakra/CVE-2017-11918.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0758](./chakra/CVE-2018-0758.md) | String | Integer Overflow | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0767](./chakra/CVE-2018-0767.md) | Array | OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0769](./chakra/CVE-2018-0769.md) | Compiler | JIT, OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0774](./chakra/CVE-2018-0774.md) | Compiler | Incorrect Scope | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0775](./chakra/CVE-2018-0775.md) | Compiler | Incorrect Scope | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0776](./chakra/CVE-2018-0776.md) | Compiler | JIT, Bailout | _lokihardt [[3]](#projectzero)_

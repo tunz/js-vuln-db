@@ -143,6 +143,6 @@ CVE Number | Feature | Keywords | Credit
 <a name="qihoo360skyeye"></a>[4] Qihoo 360 Skyeye Labs  
 <a name="qihoo360vulcan"></a>[5] Qihoo 360 Vulcan Team  
 <a name="kaistsoftsec"></a>[6] KAIST SoftSec  
-<a name="tencentplatform"></a>[7] Tencent Security Platform Department
-<a name="naver"></a>[8] Naver Corporation
-<a name="microsoft"></a>[9] Microsoft
+<a name="tencentplatform"></a>[7] Tencent Security Platform Department  
+<a name="naver"></a>[8] Naver Corporation  
+<a name="microsoft"></a>[9] Microsoft  

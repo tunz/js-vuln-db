@@ -93,11 +93,18 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-0758](./chakra/CVE-2018-0758.md) | String | Integer Overflow | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0767](./chakra/CVE-2018-0767.md) | Array | OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0769](./chakra/CVE-2018-0769.md) | Compiler | JIT, OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0770](./chakra/CVE-2018-0770.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0774](./chakra/CVE-2018-0774.md) | Compiler | Incorrect Scope | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0775](./chakra/CVE-2018-0775.md) | Compiler | Incorrect Scope | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0776](./chakra/CVE-2018-0776.md) | Compiler | JIT, Bailout | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0777](./chakra/CVE-2018-0777.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0780](./chakra/CVE-2018-0780.md) | Compiler | asm.js, OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0834](./chakra/CVE-2018-0834.md) | Compiler | Array, Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0835](./chakra/CVE-2018-0835.md) | Compiler | Array.reverse, Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0837](./chakra/CVE-2018-0837.md) | Compiler | JIT, Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0838](./chakra/CVE-2018-0838.md) | Compiler | Array, Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0840](./chakra/CVE-2018-0840.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0860](./chakra/CVE-2018-0860.md) | Compiler | JIT, Information Leak | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

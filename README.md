@@ -105,6 +105,8 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-0838](./chakra/CVE-2018-0838.md) | Compiler | Array, Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0840](./chakra/CVE-2018-0840.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0860](./chakra/CVE-2018-0860.md) | Compiler | JIT, Information Leak | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0933](./chakra/CVE-2018-0933.md) | Compiler | JIT, Bailout | _lokihardt [[3]](#projectzero)_
+[CVE-2018-0934](./chakra/CVE-2018-0934.md) | Compiler | JIT, Bailout | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

@@ -59,6 +59,8 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-0071](./chakra/CVE-2017-0071.md) | Optimization | Array, Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-0134](./chakra/CVE-2017-0134.md) | Array.concat | Side Effect, Type Confusion | _Jordan Rabet_
 [CVE-2017-0141](./chakra/CVE-2017-0141.md) | Array.reverse | Side Effect | _Semmle Inc_
+[CVE-2017-0234](./chakra/CVE-2017-0234.md) | ArrayBuffer | OOB | _Yuange [[10]](#zhanlulab)_
+[CVE-2017-0236](./chakra/CVE-2017-0236.md) | ArrayBuffer | UAF | _Tencent Security Lance Team_ <br/> _Yuki Chen [[5]](#qihoo360vulcan)_
 [CVE-2017-8548](./chakra/CVE-2017-8548.md) | Optimization | Array | _lokihardt [[3]](#projectzero)_
 [CVE-2017-8601](./chakra/CVE-2017-8601.md) | Optimization | Array | _lokihardt [[3]](#projectzero)_
 [CVE-2017-8634](./chakra/CVE-2017-8634.md) | Array.concat | Side Effect | _Hao Lian [[5]](#qihoo360vulcan)_<br/>_HyungSeok Han [[6]](#kaistsoftsec)_
@@ -157,3 +159,4 @@ CVE Number | Feature | Keywords | Credit
 <a name="tencentplatform"></a>[7] Tencent Security Platform Department  
 <a name="naver"></a>[8] Naver Corporation  
 <a name="microsoft"></a>[9] Microsoft  
+<a name="zhanlulab"></a>[10] Tencent Zhanlu Lab  

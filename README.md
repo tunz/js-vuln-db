@@ -80,7 +80,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-11764](./chakra/CVE-2017-11764.md) | Parser | eval | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11799](./chakra/CVE-2017-11799.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11802](./chakra/CVE-2017-11802.md) | Compiler | String.replace, Type Confusion | _lokihardt [[3]](#projectzero)_
-[CVE-2017-11809](./chakra/CVE-2017-11809.md) | Compiler | Recursive function, Uninitialized Memory | _lokihardt [[3]](#projectzero)_
+[CVE-2017-11809](./chakra/CVE-2017-11809.md) | Compiler | Uninitialized Memory | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11811](./chakra/CVE-2017-11811.md) | Compiler | Type confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11839](./chakra/CVE-2017-11839.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
 [CVE-2017-11840](./chakra/CVE-2017-11840.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_

@@ -38,6 +38,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-5122](./v8/CVE-2017-5122.md) | wasm | OOB | _Choongwoo Han [[8]](#naver)_
 [CVE-2017-15399](./v8/CVE-2017-15399.md) | wasm | Use After Free | _Zhao Qixun [[5]](#qihoo360vulcan)_
 [CVE-2017-15401](./v8/CVE-2017-15401.md) | wasm | Side Effect, OOB | ?
+[CVE-2018-6056](./v8/CVE-2018-6056.md) | Object | OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2018-6061](./v8/CVE-2018-6061.md) | wasm | Race Condition | _Guang Gong [[1]](#qihoo360)_
 [CVE-2018-6064](./v8/CVE-2018-6064.md) | Object.entries | Side Effect, OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2018-6106](./v8/CVE-2018-6106.md) | async generator | Side Effect, Type Confusion | _lokihardt [[3]](#projectzero)_

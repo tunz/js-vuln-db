@@ -41,6 +41,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-6056](./v8/CVE-2018-6056.md) | Object | OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2018-6061](./v8/CVE-2018-6061.md) | wasm | Race Condition | _Guang Gong [[1]](#qihoo360)_
 [CVE-2018-6064](./v8/CVE-2018-6064.md) | Object.entries | Side Effect, OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2018-6065](./v8/CVE-2018-6065.md) | Object | Integer Overflow | _Mark Brand [[3]](#projectzero)_
 [CVE-2018-6106](./v8/CVE-2018-6106.md) | async generator | Side Effect, Type Confusion | _lokihardt [[3]](#projectzero)_
 
 ## ChakraCore

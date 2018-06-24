@@ -134,8 +134,9 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-6984](./jsc/CVE-2017-6984.md) | Intl.getCanonicalLocales | Heap Overflow | _lokihardt [[3]](#projectzero)_
 [CVE-2017-7056](./jsc/CVE-2017-7056.md) | arguments | Uninitialized Memory | _lokihardt [[3]](#projectzero)_
 [CVE-2017-7061](./jsc/CVE-2017-7061.md) | Compiler | for-in, Type Confusion | _lokihardt [[3]](#projectzero)_
-[CVE-2017-7092](./jsc/CVE-2017-7092.md) | String.link | Heap Overflow | _Samuel Gro and Niklas Baumstark_<br>_Qixun Zhao [[5]](#qihoo360vulcan)_
+[CVE-2017-7092](./jsc/CVE-2017-7092.md) | String.link | Heap Overflow | _Samuel Groß and Niklas Baumstark_<br>_Qixun Zhao [[5]](#qihoo360vulcan)_
 [CVE-2017-7117](./jsc/CVE-2017-7117.md) | Compiler | for-in, Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-4233](./jsc/CVE-2018-4233.md) | Compiler | Proxy, Array, Type Confusion | _Samuel Groß_
 
 ## SpiderMonkey
 CVE Number | Feature | Keywords | Credit

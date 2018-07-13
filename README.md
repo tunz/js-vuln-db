@@ -115,6 +115,9 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-0934](./chakra/CVE-2018-0934.md) | Compiler | JIT, Bailout | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0953](./chakra/CVE-2018-0953.md) | Compiler | Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2018-0980](./chakra/CVE-2018-0980.md) | Compiler | Bound Check Elimination | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8139](./chakra/CVE-2018-8139.md) | Function | OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8145](./chakra/CVE-2018-8145.md) | JIT | OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8229](./chakra/CVE-2018-8229.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

@@ -119,6 +119,10 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-8139](./chakra/CVE-2018-8139.md) | Function | OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2018-8145](./chakra/CVE-2018-8145.md) | JIT | OOB | _lokihardt [[3]](#projectzero)_
 [CVE-2018-8229](./chakra/CVE-2018-8229.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8279](./chakra/CVE-2018-8279.md) | Parser | Parameter Scope | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8288](./chakra/CVE-2018-8288.md) | Compiler | JIT | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8291](./chakra/CVE-2018-8291.md) | DictionaryPropertyDescriptor | Type confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8298](./chakra/CVE-2018-8298.md) | Intl | TimeFormat | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

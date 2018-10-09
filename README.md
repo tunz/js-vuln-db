@@ -128,6 +128,8 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-8298](./chakra/CVE-2018-8298.md) | Intl | TimeFormat | _lokihardt [[3]](#projectzero)_
 [CVE-2018-8355](./chakra/CVE-2018-8355.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2018-8384](./chakra/CVE-2018-8384.md) | PathTypeHandler | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8466](./chakra/CVE-2018-8466.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8467](./chakra/CVE-2018-8467.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit

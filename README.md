@@ -157,6 +157,7 @@ CVE Number | Feature | Keywords | Credit
 CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
 [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md) | TypedArray.subarray | OOB, Buffer Neutering, Side Effect | _Jüri Aedla_
+[CVE-2018-12387](./spidermonkey/CVE-2018-12387.md) | Array.prototype.push |  Memory Disclosure | _Bruno Keith and Niklas Baumstark_
 
 ## JScript
 

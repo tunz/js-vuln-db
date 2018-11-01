@@ -47,6 +47,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-6122](./v8/CVE-2018-6122.md) | wasm | async, Side Effect, Type Confusion | ?
 [CVE-2018-6136](./v8/CVE-2018-6136.md) | RegExp | Side Effect, Type Confusion | _Peter Wong_
 [CVE-2018-6142](./v8/CVE-2018-6142.md) | Map | Information Leak, OOB | _Choongwoo Han [[8]](#naver)_
+[CVE-2018-6143](./v8/CVE-2018-6143.md) | RegExp | Side Effect, OOB |_Guang Gong [[1]](#qihoo360)_
 
 ## ChakraCore
 CVE Number | Feature | Keywords | Credit

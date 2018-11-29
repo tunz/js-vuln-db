@@ -154,6 +154,9 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-7092](./jsc/CVE-2017-7092.md) | String.link | Heap Overflow | _Samuel Groß and Niklas Baumstark_<br>_Qixun Zhao [[5]](#qihoo360vulcan)_
 [CVE-2017-7117](./jsc/CVE-2017-7117.md) | Compiler | for-in, Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2018-4233](./jsc/CVE-2018-4233.md) | Compiler | Proxy, Array, Type Confusion | _Samuel Groß_
+[CVE-2018-4382](./jsc/CVE-2018-4382.md) | Compiler | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-4386](./jsc/CVE-2018-4386.md) | Compiler | Incorrect Optimization | _lokihardt [[3]](#projectzero)_
+[CVE-2018-4416](./jsc/CVE-2018-4416.md) | Compiler | Type Confusion | _lokihardt [[3]](#projectzero)_
 
 ## SpiderMonkey
 CVE Number | Feature | Keywords | Credit

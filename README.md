@@ -157,6 +157,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-4382](./jsc/CVE-2018-4382.md) | Compiler | Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2018-4386](./jsc/CVE-2018-4386.md) | Compiler | Incorrect Optimization | _lokihardt [[3]](#projectzero)_
 [CVE-2018-4416](./jsc/CVE-2018-4416.md) | Compiler | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-4438](./jsc/CVE-2018-4438.md) | Compiler | Prototype Chains | _lokihardt [[3]](#projectzero)_
 
 ## SpiderMonkey
 CVE Number | Feature | Keywords | Credit

@@ -178,6 +178,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-0891](./jscript/CVE-2018-0891.md) | RegExp.lastMatch | Memory Disclosure | _ifratric [[3]](#projectzero)_
 [CVE-2018-0935](./jscript/CVE-2018-0935.md) | Array | Use After Free | _ifratric [[3]](#projectzero)_
 [CVE-2018-8353](./jscript/CVE-2018-8353.md) | RegExp | Use After Free | _ifratric [[3]](#projectzero)_
+[CVE-2018-8631](./jscript/CVE-2018-8631.md) | Array | OOB | _ifratric [[3]](#projectzero)_
 
 ---
 <a name="qihoo360"></a>[1] Qihoo 360  

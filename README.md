@@ -26,7 +26,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2016-5200](./v8/CVE-2016-5200.md) | Optimization | asm.js TypedArray, OOB | _Choongwoo Han [[6]](#kaistsoftsec)_
 [CVE-2016-9651](./v8/CVE-2016-9651.md) | Object.assign | Logic, Property | _Guang Gong [[1]](#qihoo360)_
 [CVE-2017-5030](./v8/CVE-2017-5030.md) | Array.concat | Side Effect, OOB | _Brendon Tiszka_
-[CVE-2017-5040](./v8/CVE-2017-5040.md) | Array.indexOf | TypedArray, Side Effect, Buffer Neutering | _Choongwoo Han_
+[CVE-2017-5040](./v8/CVE-2017-5040.md) | Array.indexOf | TypedArray, Side Effect, Detach Buffer | _Choongwoo Han_
 [CVE-2017-5053](./v8/CVE-2017-5053.md) | Array.indexOf | Side Effect | _Team Sniper [[2]](#keenlab)_
 [CVE-2017-5070](./v8/CVE-2017-5070.md) | Optimization | Array, Type Confusion | _Zhao Qixun [[5]](#qihoo360vulcan)_
 [CVE-2017-5071](./v8/CVE-2017-5071.md) | Compiler | OOB | _Choongwoo Han_
@@ -49,7 +49,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-6142](./v8/CVE-2018-6142.md) | Map | Information Leak, OOB | _Choongwoo Han [[8]](#naver)_
 [CVE-2018-6143](./v8/CVE-2018-6143.md) | RegExp | Side Effect, OOB | _Guang Gong [[1]](#qihoo360)_
 [CVE-2018-6149](./v8/CVE-2018-6149.md) | String.split | Allocator, OOB | _Yu Zhou and Jundong Xie [[11]](#afly)_
-[CVE-2018-16065](./v8/CVE-2018-16065.md) | TypedArray.of | Side Effect, OOB | _Brendon Tiszka_
+[CVE-2018-16065](./v8/CVE-2018-16065.md) | TypedArray.of | Side Effect, OOB, Detach Buffer | _Brendon Tiszka_
 
 ## ChakraCore
 CVE Number | Feature | Keywords | Credit
@@ -66,7 +66,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2016-7241](./chakra/CVE-2016-7241.md) | JSON.parse | Information Leak | _Natalie Silvanovich [[3]](#projectzero)_
 [CVE-2016-7286](./chakra/CVE-2016-7286.md) | SIMD.toLocaleString | Uninitialized Memory | _Natalie Silvanovich [[3]](#projectzero)_
 [CVE-2016-7287](./chakra/CVE-2016-7287.md) | Intl | Initialization, Type Confusion | _Natalie Silvanovich [[3]](#projectzero)_
-[CVE-2016-7288](./chakra/CVE-2016-7288.md) | TypedArray.sort | Side Effect, Buffer Neutering | _Natalie Silvanovich [[3]](#projectzero)_
+[CVE-2016-7288](./chakra/CVE-2016-7288.md) | TypedArray.sort | Side Effect, Detach Buffer | _Natalie Silvanovich [[3]](#projectzero)_
 [CVE-2017-0015](./chakra/CVE-2017-0015.md) | Spread Operator | Side Effect, Uninitialized Memory | _Qixun Zhao [[4]](#qihoo360skyeye)_<br/> _lokihart_<br/> _Simon Zuckerbraun_
 [CVE-2017-0071](./chakra/CVE-2017-0071.md) | Optimization | Array, Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-0134](./chakra/CVE-2017-0134.md) | Array.concat | Side Effect, Type Confusion | _Jordan Rabet_
@@ -139,7 +139,7 @@ CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
 [CVE-2016-1857](./jsc/CVE-2016-1857.md) | Array.join | Side Effect, Use After Free | _Liang Chen_, _Zhen Feng_, _wushi_ _[[2]](#keenlab)_<br/> _Jeonghoon Shin_
 [CVE-2016-4622](./jsc/CVE-2016-4622.md) | Array.slice | Side Effect, OOB | _Samuel Groß_
-[CVE-2016-4734](./jsc/CVE-2016-4734.md) | TypedArray.copyWithin<br/> TypedArray.fill | Side Effect, Buffer Neutering | _Natalie Silvanovich [[3]](#projectzero)_
+[CVE-2016-4734](./jsc/CVE-2016-4734.md) | TypedArray.copyWithin<br/> TypedArray.fill | Side Effect, Detach Buffer | _Natalie Silvanovich [[3]](#projectzero)_
 [CVE-2017-2446](./jsc/CVE-2017-2446.md) | Funciton.caller | Type Confusion | _Natalie Silvanovich [[3]](#projectzero)_
 [CVE-2017-2447](./jsc/CVE-2017-2447.md) | Function.bind | OOB | _Natalie Silvanovich [[3]](#projectzero)_
 [CVE-2017-2464](./jsc/CVE-2017-2464.md) | Array.concat | Integer Overflow | _Natalie Silvanovich [[3]](#projectzero)_
@@ -165,7 +165,7 @@ CVE Number | Feature | Keywords | Credit
 ## SpiderMonkey
 CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
-[CVE-2014-1513](./spidermonkey/CVE-2014-1513.md) | TypedArray.subarray | OOB, Buffer Neutering, Side Effect | _Jüri Aedla_
+[CVE-2014-1513](./spidermonkey/CVE-2014-1513.md) | TypedArray.subarray | OOB, Detach Buffer, Side Effect | _Jüri Aedla_
 [CVE-2018-12387](./spidermonkey/CVE-2018-12387.md) | Array.prototype.push |  Memory Disclosure | _Bruno Keith and Niklas Baumstark_
 
 ## JScript

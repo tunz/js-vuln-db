@@ -11,3 +11,4 @@ Waiting public ...
 - [CVE-2019-5782](https://crbug.com/906043)
 - [CVE-2019-5755](https://crbug.com/913296)
 - [CVE-2019-5763](https://crbug.com/914731)
+- [CVE-2019-5784](https://crbug.com/915975)

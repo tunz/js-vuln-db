@@ -50,6 +50,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-6143](./v8/CVE-2018-6143.md) | RegExp | Side Effect, OOB | _Guang Gong [[1]](#qihoo360)_
 [CVE-2018-6149](./v8/CVE-2018-6149.md) | String.split | Allocator, OOB | _Yu Zhou and Jundong Xie [[11]](#afly)_
 [CVE-2018-16065](./v8/CVE-2018-16065.md) | TypedArray.of | Side Effect, OOB, Detach Buffer | _Brendon Tiszka_
+[CVE-2018-17463](./v8/CVE-2018-17463.md) | Compiler | Object.create | _Samuel Gross_
 
 ## ChakraCore
 CVE Number | Feature | Keywords | Credit

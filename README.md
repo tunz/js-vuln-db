@@ -135,6 +135,10 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-8384](./chakra/CVE-2018-8384.md) | PathTypeHandler | Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2018-8466](./chakra/CVE-2018-8466.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2018-8467](./chakra/CVE-2018-8467.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2018-8617](./chakra/CVE-2018-8617.md) | Optimization | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2019-0539](./chakra/CVE-2019-0539.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2019-0567](./chakra/CVE-2019-0567.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2019-0568](./chakra/CVE-2019-0568.md) | JIT | Use After Free | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
 

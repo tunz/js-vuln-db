@@ -53,6 +53,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-17463](./v8/CVE-2018-17463.md) | Compiler | Object.create | _Samuel Gross_
 
 ## ChakraCore
+
 CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
 [CVE-2016-3386](./chakra/CVE-2016-3386.md) | Spread Operator | Array, Proxy, Stack Overflow | _Richard Zhu_
@@ -136,6 +137,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-8467](./chakra/CVE-2018-8467.md) | JIT | Type Confusion | _lokihardt [[3]](#projectzero)_
 
 ## JavaScriptCore
+
 CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
 [CVE-2016-1857](./jsc/CVE-2016-1857.md) | Array.join | Side Effect, Use After Free | _Liang Chen_, _Zhen Feng_, _wushi_ _[[2]](#keenlab)_<br/> _Jeonghoon Shin_
@@ -161,9 +163,12 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-4416](./jsc/CVE-2018-4416.md) | Compiler | Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2018-4438](./jsc/CVE-2018-4438.md) | Compiler | Prototype Chains | _lokihardt [[3]](#projectzero)_
 [CVE-2018-4441](./jsc/CVE-2018-4441.md) | JSArray | OOB | _lokihardt [[3]](#projectzero)_
+[CVE-2018-4442](./jsc/CVE-2018-4442.md) | JIT | Use After Free | _lokihardt [[3]](#projectzero)_
 [CVE-2018-4443](./jsc/CVE-2018-4443.md) | AbstractValue | Use After Free | _lokihardt [[3]](#projectzero)_
+[CVE-2019-6215](./jsc/CVE-2019-6215.md) | Optimization | Type Confusion | _lokihardt [[3]](#projectzero)_
 
 ## SpiderMonkey
+
 CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
 [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md) | TypedArray.subarray | OOB, Detach Buffer, Side Effect | _Jüri Aedla_

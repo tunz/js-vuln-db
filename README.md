@@ -170,6 +170,9 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-4442](./jsc/CVE-2018-4442.md) | JIT | Use After Free | _lokihardt [[3]](#projectzero)_
 [CVE-2018-4443](./jsc/CVE-2018-4443.md) | AbstractValue | Use After Free | _lokihardt [[3]](#projectzero)_
 [CVE-2019-6215](./jsc/CVE-2019-6215.md) | Optimization | Type Confusion | _lokihardt [[3]](#projectzero)_
+[CVE-2019-8506](./jsc/CVE-2019-8506.md) | RegExp | Type Confusion | _Samuel Groß [[3]](#projectzero)_
+[CVE-2019-8518](./jsc/CVE-2019-8518.md) | JIT | OOB | _Samuel Groß [[3]](#projectzero)_
+[CVE-2019-8558](./jsc/CVE-2019-8558.md) | CodeBlock | UAF | _Samuel Groß [[3]](#projectzero)_
 
 ## SpiderMonkey
 
@@ -177,6 +180,8 @@ CVE Number | Feature | Keywords | Credit
 ---------- | ------- | -------- | ------
 [CVE-2014-1513](./spidermonkey/CVE-2014-1513.md) | TypedArray.subarray | OOB, Detach Buffer, Side Effect | _Jüri Aedla_
 [CVE-2018-12387](./spidermonkey/CVE-2018-12387.md) | Array.prototype.push |  Memory Disclosure | _Bruno Keith and Niklas Baumstark_
+[CVE-2019-9791](./spidermonkey/CVE-2019-9791.md) | OSR, JIT | Type Confusions | _Samuel Groß [[3]](#projectzero)_
+[CVE-2019-9813](./spidermonkey/CVE-2019-9813.md) | Prototype, JIT | Type Confusions | _Samuel Groß [[3]](#projectzero)_
 
 ## JScript
 

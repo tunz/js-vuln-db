@@ -197,7 +197,8 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-0935](./jscript/CVE-2018-0935.md) | Array | Use After Free | _ifratric [[3]](#projectzero)_
 [CVE-2018-8353](./jscript/CVE-2018-8353.md) | RegExp | Use After Free | _ifratric [[3]](#projectzero)_
 [CVE-2018-8631](./jscript/CVE-2018-8631.md) | Array | OOB | _ifratric [[3]](#projectzero)_
-[CVE-2018-8389](./jscript/CVE-2018-8389.md) | ActiveXObject | Use After Free | _Sudhakar Verma and Ashfaq Ansari[[12]](#srishti)_ 
+[CVE-2018-8389](./jscript/CVE-2018-8389.md) | ActiveXObject | Use After Free | _Sudhakar Verma and Ashfaq Ansari[[12]](#srishti)_
+[CVE-2019-0930](./jscript/CVE-2019-0930.md) | getVarDate | Use After Free | _Krishnakant Patil and Siddhant Badhe[[12]](#srishti)_
 
 ---
 <a name="qihoo360"></a>[1] Qihoo 360  

@@ -51,6 +51,9 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2018-6149](./v8/CVE-2018-6149.md) | String.split | Allocator, OOB | _Yu Zhou and Jundong Xie [[11]](#afly)_
 [CVE-2018-16065](./v8/CVE-2018-16065.md) | TypedArray.of | Side Effect, OOB, Detach Buffer | _Brendon Tiszka_
 [CVE-2018-17463](./v8/CVE-2018-17463.md) | Compiler | Object.create | _Samuel Gross_
+[CVE-2019-5755](./v8/CVE-2019-5755.md) | Compiler | OOB | _Jay Bosamiya_
+[CVE-2019-5782](./v8/CVE-2019-5782.md) | Compiler | OOB | _Zhao Qixun [[5]](#qihoo360vulcan)_
+[CVE-2019-5784](./v8/CVE-2019-5784.md) | Optimization | Allocator | _lupin_
 
 ## ChakraCore
 
